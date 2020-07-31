@@ -1,0 +1,3 @@
+[submodule "packages/rs-webpack"]
+	path = packages/rs-webpack
+	url = git@github.com:caocuong2404/rs-webpack.git
